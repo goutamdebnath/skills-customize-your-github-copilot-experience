@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Designing and implementing REST APIs using the FastAPI framework.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-02-10"
     }
   ]
 }
